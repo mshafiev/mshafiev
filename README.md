@@ -9,9 +9,15 @@
 
 <h1 align="center">Михаил Шафиев</h1>
 
-Владелец <strong>ГК «РОСАЙТИ»</strong>, двукратный чемпион России, ментор, преподаватель
+<p align="center">Владелец <strong>ГК «РОСАЙТИ»</strong>, двукратный чемпион России, ментор, преподаватель
+<p>
 
-<br>
-  
+
+<p align="center">
+  <a href="https://t.me/m_shafiev"><img src="icons/tg.svg" height="20"></a>
+  <a href="mailto:shafiev@gkrosit.com"><img src="icons/mail.svg" height="20"></a>
+
+</p>
+
 
 </div>
