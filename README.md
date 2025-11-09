@@ -1,16 +1,17 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Header</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+<div style="background-color: #141414; color: #FAFAFA; padding: 20px;">
 
-<div class="header">
-    <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist !</p>
+<br>
+
+<p align="center">
+  <img src="img/banner.svg" alt="Banner" width="400" >
+</p>
+
+
+<h1 align="center">Михаил Шафиев</h1>
+
+Владелец <strong>ГК «РОСАЙТИ»</strong>, двукратный чемпион России, ментор, преподаватель
+
+<br>
+  
+
 </div>
-
-</body>
-</html>
